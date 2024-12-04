@@ -1,0 +1,105 @@
+.top{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 300px;
+}
+   
+.parent-left{
+    background-color: #e28525;
+    width: 25%;
+    color: aliceblue;
+    height: 450px;
+    float: left;
+}
+.parent-middle{
+    background-color: #016972;
+    width: 25%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    height: 450px;
+    float:left;
+}
+.parent-right{
+    background-color: #00403f;
+    width: 25%;
+    color: aliceblue;
+    height: 450px;
+    margin-top: 0%;
+    float: left;
+}
+.parent-left img{
+    width: 20%;
+    padding-left: 45px;
+    padding-top: 45px;
+}
+.parent-middle img{
+    width: 20%;
+    padding-left: 45px;
+    padding-top: 45px;
+}
+.parent-right img{
+    width: 20%;
+    padding-left: 45px;
+    padding-top: 45px;
+}
+.parent-left h1{
+    padding-left: 45px;
+}
+.parent-middle h1{
+    padding-left: 45px;
+}
+.parent-right h1{
+    padding-left: 45px;
+}
+.parent-left p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 45px;
+    padding-right:30px;
+}
+.parent-middle p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 45px;
+    padding-right:30px;
+}
+.parent-right p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 45px;
+    padding-right:30px;
+}
+.parent-left .sbt{
+    width: 50%;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 45px;
+    margin-top: 80px;
+}
+.parent-middle .sbt{
+    width: 50%;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left:45px;
+    margin-top: 80px;
+}
+.parent-right .sbt{
+    width: 50%;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 45px;
+    margin-top: 80px;
+}
+.clear{
+    clear: both;
+}
